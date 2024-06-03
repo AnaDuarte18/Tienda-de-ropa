@@ -1,5 +1,52 @@
-
 .navbar-brand{
     font-weight: 600;
     font-size:x-large;
+}
+
+.body{
+    display: flex;
+}
+.scrollspyHeading1{
+    display: flex;
+}
+.contenedor{
+    width: 1500px;
+    justify-items: left;
+    padding-left: 40%;
+}
+.contenedor-1{
+    display: flex;
+    position: "relative";
+    align-items: right;
+    justify-content: right;
+    justify-self: light;
+    justify-items: light;
+    align-content: light;
+    height: max-content;
+    width: 500px;
+    border-radius: 10px;
+}
+.contenedor-2{
+    display: flex;
+    position: "relative";
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+    align-content: center;
+    height: max-content;
+    width: 500px;
+    border-radius: 10px;
+}
+.contenedor-3{
+    display: flex;
+    position: "relative";
+    align-items: left;
+    justify-content: left;
+    justify-self: left;
+    justify-items: left;
+    align-content: left;
+    height: max-content;
+    width: 500px;
+    border-radius: 10px;
 }
