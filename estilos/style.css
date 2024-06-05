@@ -10,9 +10,12 @@
     display: flex;
 }
 .contenedor{
+    padding-block: 8%;
     width: 1500px;
     justify-items: left;
-    padding-left: 40%;
+    display:flex
+
+    
 }
 .contenedor-1{
     display: flex;
@@ -49,4 +52,13 @@
     height: max-content;
     width: 500px;
     border-radius: 10px;
+}
+.contenedor-PF{
+    padding-block: 7%;
+}
+h1{
+    justify-self: center;
+}
+footer{
+    padding-block: 8%;
 }
